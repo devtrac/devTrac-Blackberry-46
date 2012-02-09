@@ -11,7 +11,7 @@
     <property name="source" value="1.3"/>
     <path id="devTrac-Blackberry-46.classpath">
         <pathelement location="bin"/>
-        <pathelement location="../../../../eclipse-java-indigo-SR1-win32/plugins/net.rim.ejde.componentpack4.6.0_4.6.0.23/components/lib/net_rim_api.jar"/>
+        <pathelement location="lib/net_rim_api.jar"/>
     </path>
     <target name="init">
         <mkdir dir="bin"/>
